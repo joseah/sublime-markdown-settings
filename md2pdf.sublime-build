@@ -1,0 +1,6 @@
+{
+  "selector": "text.pdf.markdown",
+  "working_dir": "$file_path",
+  "shell": true,
+  "cmd":["/usr/local/bin/pandoc -f markdown -t latex --latex-engine /usr/local/texlive/2015basic/bin/universal-darwin/pdflatex -o $file_base_name$
+}
