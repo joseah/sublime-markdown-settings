@@ -14,5 +14,10 @@ https://github.com/jonschlinkert/sublime-markdown-extended
 
 See file
 
-
 > See https://blog.mariusschulz.com/2014/12/16/how-to-set-up-sublime-text-for-a-vastly-better-markdown-writing-experience
+
+
+## Install SmartMarkdown
+
+- Allows code folding at header level:  
+https://github.com/demon386/SmartMarkdown
